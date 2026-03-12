@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferhat </h1>
 <h3 align="center">I am a computer engineering student. My work focuses on cybersecurity, deep learning and full-stack development.</h3>
 
-![MasterHead](https://i.pinimg.com/originals/3a/0f/42/3a0f42ab01258acc7869250dda9123d4.jpg)
+![MasterHead](https://pbs.twimg.com/media/HC10rw3XUAAJtSX?format=jpg&name=small)
 
 📫 How to reach me **fbas6286@gmail.com**
 
