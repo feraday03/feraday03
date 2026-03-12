@@ -3,7 +3,6 @@
 
 ![MasterHead](https://pbs.twimg.com/media/HC10rw3XUAAJtSX?format=jpg&name=small)
 
-📫 How to reach me **fbas6286@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
