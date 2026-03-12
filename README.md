@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ferhat </h1>
-<h3 align="center">I am a computer engineering student. My work focuses on cybersecurity, deep learning and full-stack development.</h3>
+<h1 align="left">Hi 👋, I'm Ferhat </h1>
+<h3 align="left">I am a computer engineering student. My work focuses on cybersecurity, deep learning and full-stack development.</h3>
 
 ![MasterHead](https://pbs.twimg.com/media/HC10rw3XUAAJtSX?format=jpg&name=small)
 
