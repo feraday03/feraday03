@@ -1,8 +1,8 @@
-![MasterHead](https://i.pinimg.com/originals/3a/0f/42/3a0f42ab01258acc7869250dda9123d4.jpg)
 <h1 align="center">Hi 👋, I'm Ferhat </h1>
 <h3 align="center">I am a computer engineering student. My work focuses on cybersecurity, deep learning and full-stack development.</h3>
+![MasterHead](https://i.pinimg.com/originals/3a/0f/42/3a0f42ab01258acc7869250dda9123d4.jpg)
 
-- 📫 How to reach me **fbas6286@gmail.com**
+📫 How to reach me **fbas6286@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
